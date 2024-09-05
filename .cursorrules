@@ -1,0 +1,18 @@
+{
+  "ai_rules": [
+    "Follow TypeScript best practices and conventions",
+    "Use React functional components with hooks",
+    "Implement state management using React hooks (useState, useContext) for this scale of application",
+    "Use Next.js conventions for file structure and API routes",
+    "Implement responsive design using Tailwind CSS classes",
+    "Ensure proper typing for all variables, functions, and components",
+    "Use async/await for asynchronous operations",
+    "Implement error handling for API calls and user interactions",
+    "Follow the existing naming conventions in the codebase",
+    "Keep components modular and reusable where possible",
+    "Use ES6+ features when appropriate",
+    "Ensure accessibility (a11y) best practices are followed",
+    "Write clear, concise comments for complex logic",
+    "Optimize performance where necessary, especially for the MindMap component"
+  ]
+}
